@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather Buddy</string>
+    <string name="map_fragment_label">Select Location</string>
+    <string name="weather_fragment_label">Weather Details</string>
+</resources>
